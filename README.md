@@ -13,12 +13,12 @@ $ webpack-dev-server --progress --colors
 
 ## DEMO 列表
 
-- [x] [demo-redux-start]()
-- [x] [demo-store]()
-- [x] [demo-create-store]()
-- [x] [demo-combine-reducer]()
-- [x] [demo-simple-react-redux]()
-- [x] [demo-todo-app]()
+- [x] [demo-redux-start](https://github.com/GuoYongfeng/redux-complete-sample/tree/master/demo-redux-start) 使用Redux的基本示例
+- [x] [demo-store](https://github.com/GuoYongfeng/redux-complete-sample/tree/master/demo-store) store API学习
+- [x] [demo-create-store](https://github.com/GuoYongfeng/redux-complete-sample/tree/master/demo-create-store) 模拟store了解其原理 
+- [x] [demo-combine-reducer](https://github.com/GuoYongfeng/redux-complete-sample/tree/master/demo-combine-reducer) combineReducer示例
+- [x] [demo-simple-react-redux](https://github.com/GuoYongfeng/redux-complete-sample/tree/master/demo-simple-react-redux) 简单完整的react-redux使用示例
+- [x] [demo-todo-app](https://github.com/GuoYongfeng/redux-complete-sample/tree/master/demo-todo-app) todo app完整示例
 
 ## LICENSE
 
