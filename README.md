@@ -13,12 +13,19 @@ $ webpack-dev-server --progress --colors
 
 ## DEMO 列表
 
+### （一）
 - [x] [demo-redux-start](https://github.com/GuoYongfeng/redux-complete-sample/tree/master/demo-redux-start) 使用Redux的基本示例
 - [x] [demo-store](https://github.com/GuoYongfeng/redux-complete-sample/tree/master/demo-store) store API学习
-- [x] [demo-create-store](https://github.com/GuoYongfeng/redux-complete-sample/tree/master/demo-create-store) 模拟store了解其原理 
+- [x] [demo-create-store](https://github.com/GuoYongfeng/redux-complete-sample/tree/master/demo-create-store) 模拟store了解其原理
 - [x] [demo-combine-reducer](https://github.com/GuoYongfeng/redux-complete-sample/tree/master/demo-combine-reducer) combineReducer示例
 - [x] [demo-simple-react-redux](https://github.com/GuoYongfeng/redux-complete-sample/tree/master/demo-simple-react-redux) 简单完整的react-redux使用示例
 - [x] [demo-todo-app](https://github.com/GuoYongfeng/redux-complete-sample/tree/master/demo-todo-app) todo app完整示例
+
+### （二）
+
+- [x] [demo-redux-devtools](https://github.com/GuoYongfeng/redux-complete-sample/tree/master/demo-redux-devtools) 使用Redux Devtools神器作为你的开发工具
+- [x] [demo-middleware](https://github.com/GuoYongfeng/redux-complete-sample/tree/master/demo-middleware) 理解和应用middleware
+- [x] [demo-middleware-apply](https://github.com/GuoYongfeng/redux-complete-sample/tree/demo-middleware-apply) 使用middleware实现异步action和异步数据流
 
 ## LICENSE
 
